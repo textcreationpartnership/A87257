@@ -1,0 +1,375 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Infants baptizing proved lawfull by the Scriptures: objections against it resolved and removed. Aug. 24. 1644. Imprimatur, John White.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87257</idno>
+            <idno type="STC">Wing I162</idno>
+            <idno type="STC">Thomason E8_31</idno>
+            <idno type="STC">ESTC R15802</idno>
+            <idno type="EEBO-CITATION">99859921</idno>
+            <idno type="PROQUEST">99859921</idno>
+            <idno type="VID">112023</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87257)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112023)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 2:E8[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Infants baptizing proved lawfull by the Scriptures: objections against it resolved and removed. Aug. 24. 1644. Imprimatur, John White.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Miller dwelling in Black-Friers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Variants: a) "Imprimatur" spelled "Imprmiatur"; title page has "Aug. 24. 1644."; b) "Imprimatur" spelled "Imprmiatur"; title page lacks "Aug. 24. 1644.".</note>
+                  <note>Annotation on Thomason copy: "Sept: 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Infant baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112023:1" rendition="simple:additions"/>
+            <p>INFANTS BAPTIZING Proved lawfull by the SCRIPTVRES: Objections againſt it reſolved and removed.</p>
+            <q>
+               <bibl>MAT. 18. 6.</bibl>
+               <p>Whoſoever ſhall offend a little child which beleeves in me, it were better for him that a mil-stone were hanged about his neck, and that he were drowned in the depth of the ſea.</p>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Aug. 24. 1644.</p>
+                        <p>Imprimatur,</p>
+                        <closer>
+                           <signed>JOHN WHITE.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>George Miller</hi> dwelling in <hi>Black-Friers,</hi> 1644.</p>
+         </div>
+         <div type="printer_to_the_reader">
+            <pb facs="tcp:112023:2"/>
+            <head>The Printer to the Reader.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">P</seg>Erceiving ſome Pamphlets to be ſent abroad, againſt Baptizing of Infants to corrupt the peo<g ref="char:EOLhyphen"/>ple, I thought it my duty to the Church of God, to publiſh this ſhort diſcourſe (which came to my hands) to give ſome check to the ſpreading of Anabaptisticall fancies, untill ſome Learned penne ſhall more fully and largely evince the truth in this controverſie; conſider thou ſeriouſly what is ſaid in it, and be eſtabliſhed in the preſent Truth, and not carried off from thy ſtedfaſtneſſe with every wind of Do<g ref="char:EOLhyphen"/>ctrine: ſhew thy ſelfe to be ſollid wheate, and not ſlight chaffe in the garner of God.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:112023:2"/>
+            <head>INFANTS BAPTIZING Proved lawfull by the SCRIPTURES.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Onſidering the preſent ſtrange and dangerous ſpreading of the old Error of the Anabaptiſts; That children are not to be baptized, which in all ages of the Church under the Goſpell hath been condemned, whenſoever it hath beene ſtirred, and is now againe revived and preſſed by the wor<g ref="char:EOLhyphen"/>kings of Satan, who hath prevailed to the infection of many therewith even among thoſe that pretend unto holineſſe, and have obtained a good degree in the Church of God; I could not be ſatisfied in my ſelfe till I had ſearched into, firſt, the title and claime of Infants unto this ordinance of Baptiſme, and then into the barrs and pretences brought againſt it; and finding the claime of Infants to be by the Scriptures ſtrong and cleere, and the batteries raiſed againſt it weake and ſlight, my ſpirit was at reſt and ſetled in the truth and juſtice of the conſtant and generall practiſes of all the Churches in it, and did not ſo much as think of making any of my thoughts and meditations concerning theſe things legible, till by occaſion of ſome debate I had with ſome Miniſters I reverenced, and of a Letter ſent unto me by one of them, I addreſſed my ſelfe to ſet downe in writing, ſolutions and anſwers to thoſe things which I perceived to ſtick with them, whereby it comes to paſſe, that in this following diſ<g ref="char:EOLhyphen"/>courſe, there is no methodicall handling of the controverſie (as it well de<g ref="char:EOLhyphen"/>ſerves) but the ſtating of the queſtion and proofe of Infants baptiſme, falls in by parcels as the objections againſt it gave occaſion. And whereas one baſis upon which the Infants right is founded, is ſuggeſted by the Ana<g ref="char:EOLhyphen"/>baptiſts to be a promiſe proper to <hi>Abraham,</hi> and not to extend to all pro<g ref="char:EOLhyphen"/>feſſors of the Goſpell, nor to any of them: I begin with that, namely,</p>
+            <q>
+               <bibl>GEN. 17. 7.</bibl>
+               <p>I will be the God of thee, and of thy ſeed.</p>
+            </q>
+            <p>THis is a double Promiſe: Firſt, <hi>I will be the God of thee;</hi> Secondly, <hi>I will be the God of thy ſeed.</hi>
+            </p>
+            <p>The firſt promiſe <hi>is no peculiar</hi> of <hi>Abrahams,</hi> but is common to every beleever under the Law and Goſpell, a branch of the new Covenant, <hi>Jer.</hi> 31.33.</p>
+            <p>
+               <pb n="4" facs="tcp:112023:3"/>
+The ſecond being the ſame Promiſe, ſignifying and carrying in it the ſame things, and in termes the ſame, only varying the ſubject, extended to ſeed, <hi>his ſeed,</hi> as related to him, muſt be of as large extent as the firſt, and common to every beleever with <hi>Abraham:</hi> and this is plaine and mani<g ref="char:EOLhyphen"/>feſt by the Grammaticall conſtruction of this Promiſe.</p>
+            <p>Secondly, It is farther evidenced, by comparing this with other Scrip<g ref="char:EOLhyphen"/>tures, <hi>Deut.</hi> 28.4. The righteous ſhall be bleſſed in the fruit of their bo<g ref="char:EOLhyphen"/>dies: where bleſſedneſſe is promiſed to their ſeed as theirs, in reference to them. <hi>Deut.</hi> 30.2, 6. God promiſes to the true penitent, to cir<g ref="char:EOLhyphen"/>cumciſe their heart, and the heart of their ſeed, to love him, <hi>Iſa.</hi> 44 3 <hi>I will powre out my Spirit upon thy ſeed, and my bleſſing upon thy off<g ref="char:EOLhyphen"/>spring. Iſa.</hi> 59.21. My Spirit and my words ſhall not depart out of thy mouth, nor out of the mouth of thy ſeed, nor of thy ſeeds ſeed for even <hi>Mat.</hi> 19.14. and <hi>Luk.</hi> 18.16. Jeſus Chriſt declares his mind concerning the children of the members of the Church, he would have them brought to him, he bleſſes them and ſaith, that <hi>of them</hi> is the Kingdome of God. <hi>Acts</hi> 2.39. The Apoſtles ſpeaking to converted Jewes and Gentiles, pe<g ref="char:EOLhyphen"/>nitent beleevers, affirmeth, that the Promiſes belong to them and to their children.</p>
+            <p>Thirdly, That the ſaid Promiſes were no peculiars of <hi>Abraham,</hi> ap<g ref="char:EOLhyphen"/>peares by that of the Apoſtle, <hi>Gal.</hi> 3.16. that the Promiſes made to <hi>A<g ref="char:EOLhyphen"/>braham,</hi> were made to Chriſt, and ſo to <hi>Abraham</hi> as intereſſed in him, in whom <hi>Abraham</hi> and all the nations of the earth are bleſſed. All pro<g ref="char:EOLhyphen"/>miſes of grace are made to Chriſt, and to <hi>Abraham,</hi> and to beleevers un<g ref="char:EOLhyphen"/>der the Goſpell in him, in reſpect of our intereſt in him. In him are the promiſes yea and Amen unto us. <hi>Abraham</hi> was an anteceſſor in the faith, whoſe ſteps the faithfull follow, <hi>Rom.</hi> 4 12. but neither father of our per<g ref="char:EOLhyphen"/>ſons nor of our faith. God honoured him to be the firſt to whom this pro<g ref="char:EOLhyphen"/>miſe was expreſly made (after the ſame made in the beginning to Jeſus Chriſt the ſeed of the woman) and ſo he was a father, and not otherwiſe, more then any other beleever. There was alſo another ſpeciality in this Pro<g ref="char:EOLhyphen"/>miſe to him, that of his naturall ſeed ſhould proceed a people that ſhould have the honour, till Chriſt came, to be the only viſible Church on earth; but the Scriptures make this rather a peculiar of <hi>Iſaack,</hi> then of <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> and made to him in <hi>Iſaack,</hi> and not generally, <hi>Gen.</hi> 17.19. <hi>Rom.</hi> 9.7. The Promiſe to <hi>Abraham</hi> comprehended <hi>Iſhmael</hi> alſo, whereupon the ſeale of it was given to him by Gods appointment; cleerely declaring the extent of that Promiſe to all in the viſible Church, and ſo it belonged
+<pb n="5" facs="tcp:112023:3"/>
+to <hi>Iſhmael,</hi> till for his mocking of <hi>Iſaack</hi> (by which he forfeited it) he was juſtly excommunicate.</p>
+            <p>Fourthly, Another thing manifeſts this truth, namely that God gave <hi>Abraham</hi> the ſeale of the Promiſe, not as <hi>Abraham,</hi> nor as a Jew, but for and in reſpect of the righteouſneſſe of faith he had before circumciſion inſtituted, in his uncircumciſion: by that it appeared he was in Chriſt, capable of the Promiſe, and intituled unto it: and this is common to Chri<g ref="char:EOLhyphen"/>ſtians of the uncircumciſion as well as to <hi>Abraham</hi> that received circum<g ref="char:EOLhyphen"/>ciſion, <hi>Rom.</hi> 4.11.</p>
+            <p>Fifthly, This further appeares by the thing contained in this Promiſe, namely, the appropriation of God to beleevers by a free Covenant of pe<g ref="char:EOLhyphen"/>culiar grace above and before others, and this grace, (as believing) is ei<g ref="char:EOLhyphen"/>ther outward, for and concerning viſible Church priviledges to be mem<g ref="char:EOLhyphen"/>bers of the viſible Church, partakers of Baptiſme <note n="*" place="margin">The viſi<g ref="char:EOLhyphen"/>ble Church is called Chriſt, 1 Cor 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 12. And the Kingdome of Chriſt, <hi>Mat.</hi> 13.</note>, <hi>&amp;c.</hi> or inward and meerely ſpirituall, which none but true Saints in whom the new creature is formed have Covenant-right unto: Cleerely all the naturall ſeed of <hi>Abraham</hi> while they continued members of the viſible Church and were not excommunicate, had Covenant-right to Church-priviledges for them and their children, and though ſome of them had not true faith and ſo at<g ref="char:EOLhyphen"/>tained not an intereſt in the inviſible grace of the Covenant, yet that un<g ref="char:EOLhyphen"/>beliefe made not the Covenant and faith of God without effect, <hi>Rom.</hi> 3.1, 2, 3. So it is under the Goſpell; <hi>
+                  <g ref="char:V">Ʋ</g>bi eadem ratio, idem ju<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; de ſimilibus idem eſt judicium.</hi>
+            </p>
+            <p>And laſtly, This is further evinced by the whole tenour of the Scrip<g ref="char:EOLhyphen"/>tures in the <note n="a" place="margin">Contr<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>io<g ref="char:EOLhyphen"/>rum eadem est ratio.</note> contrary, which is the portion of the wicked and of their children that are not in the Covenant of grace, or being once within the outward and viſible grace thereof, deprive themſelves thereof by becom<g ref="char:EOLhyphen"/>ming degenerate and prophane, and are juſtly therefore excommunicate. The curſe is alwayes extended to their ſeede as well as to them, <hi>Deut.</hi> 28. 18. <hi>Exod.</hi> 20.5. and though this be not executed upon all their ſeed, but that free election manifeſted by their regeneration reſtores them to be veſſels of mercy, yet that makes not the curſe of God of no effect, neither doth the generall revealed will, hinder the operation of the ſecret free grace of Gods election, or of reprobation.</p>
+            <p>
+               <hi>Abrahams</hi> ſeed, <hi>Rom.</hi> 4.16. is diſtinguiſhed into the ſeed which is of the Law, and the ſeed which is of faith; and neither excluded, but both included within the Promiſe. And <hi>Rom.</hi> 9.6. the diſtinction is betweene the naturall and the ſpirituall ſeed, among the naturall as well as others,
+<pb n="6" facs="tcp:112023:4"/>
+and none of them are excluded from intereſt in the Covenant, but firſt all are included in the outward grace of the Covenant, <hi>verſ.</hi> 4. all Iſrae<g ref="char:EOLhyphen"/>lites, to whom pertained the adoption and the glory and the Covenant and the Promiſes: Secondly, Some are excluded the inviſible grace of the Co<g ref="char:EOLhyphen"/>venant by the ſecret counſell of divine preterition, as others were included by election, <hi>verſ.</hi> 6, 11. all which further confirmes and cleeres what I have ſaid; and both parts of the Covenant are free grace, even the out<g ref="char:EOLhyphen"/>ward, <hi>Pſal.</hi> 147.19, 20. God ſhews his word, ſtatutes and judgements to <hi>Iſrael,</hi> he hath not dealt ſo with others.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> It is objected by one, That this Promiſe is made to <hi>Abraham,</hi> not as any believer, but as a perſon choſen by God freely.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> To which I anſwer, That which is ſpoken to <hi>Abraham</hi> as a be<g ref="char:EOLhyphen"/>liever, is common to all believers, becauſe they all are ſubjects capable of it, they all are perſons choſen by God freely, and have the ſame hand of faith to receive it; and there is no colour to aſſert, that God is not the God of every believer as well as of <hi>Abraham,</hi> or that the children of every believer are not beloved for their fathers ſake as well as <hi>Abraham:</hi> And it is a Promiſe made, not to believers as a ſpecies, but to individuals, beleevers as acted with faith. The Promiſes of God are not notions, nor predicable of univerſals, but actuall, but whatſoever generall Promiſe is made to any man as a believer, is made, intended and applicable to all, to every, to any believer. That they are beloved for the fathers ſake, is true of every believers children as well as of <hi>Abrahams,</hi> for if the roote be ho<g ref="char:EOLhyphen"/>ly ſo are the branches, <hi>Rom.</hi> 11.16, 28. though ſome of them be broken off by perſonall unbeliefe, as it was with <hi>Abrahams</hi> ſeed, <hi>verſ.</hi> 17.</p>
+            <p>And that God doth ſometimes make particular promiſes of particular grace (which is not applicable to all believers) to ſome perſons that be<g ref="char:EOLhyphen"/>lieve, is nothing materiall or pertinent to this queſtion, as the Promiſe to <hi>Phineas</hi> concerning the Prieſthood, <hi>Num.</hi> 25.13. and the Promiſe of the Keyes to <hi>Peter, Mat.</hi> 16.17, 18, 19. For firſt, the Promiſe to <hi>Phineas</hi> was not made to him as a zealous man, for then it would have been common to all zelots (though God tooke occaſion from his zeale, and in reward thereof to make that Promiſe unto him) but God made it unto him as a Prieſt, in which reſpect only he was capable of it, and by the matter it ſelfe appeares it was peculiar and not common; but to be the God of his people, is common and communicable to all believers as our Promiſe now in queſtion; ſo far are theſe caſes from ſimilitude, as they have no reſem<g ref="char:EOLhyphen"/>blance. And ſo the Promiſe to <hi>Peter</hi> is not of a thing common to all be<g ref="char:EOLhyphen"/>lievers,
+<pb n="7" facs="tcp:112023:4"/>
+as the Promiſe in queſtion, but of a matter intruſted unto the Mi<g ref="char:EOLhyphen"/>niſters of the Goſpell, and made to <hi>Peter</hi> as ſuch, not as a believer; and though made to <hi>Peter,</hi> is applicable to all Miniſters of the Goſpell, and common to the reſt of the Apoſtles. And whether the inferring of ſuch inſtances to prove the promiſe in queſtion to be a peculiar of <hi>Abrahams,</hi> be not cavilling rather then candid arguing or ſeeking the truth, let the Reader judge.</p>
+            <p>And it is apparantly a like meere cavill, to ſay that <hi>Iſa.</hi> 59. 20, 21. is not applicable to all believers, and all times, becauſe the Apoſtle, <hi>Rom.</hi> 11. 26. applies it to the <hi>Jewes;</hi> for by the context of the originall place, it is a generall promiſe, made expreſſy and extended to all to whom the Re<g ref="char:EOLhyphen"/>deemer ſhall come, and the applying thereof to the <hi>Jewes,</hi> a branch only of them to whom he came, is ſo far from limiting it, as applying <hi>animal rationale</hi> to <hi>John</hi> to prove him a man, limits it to him alone excluding all other men, when that inſtance confirmes it to all of like caſe and condi<g ref="char:EOLhyphen"/>tion, and declares it appliable to them alſo, and upon the ſame reaſon.</p>
+            <p>And <hi>Exod.</hi> 20 6. That God will ſhew mercy to thouſands of them that love him, is cleerely a Promiſe to the believer and his children, who though not expreſly, yet by the antitheſis of the context comparing it with the former verſe, upon which it depends and is inferred, are neceſſarily included: and it is a Promiſe to every believer (as generall as the curſe in the former verſe, which extends to all that hate God) extending to all that love him, and not matter contingent but certaine to them. And ſo <hi>Pſal.</hi> 112.2. The Promiſe that the ſeed and generation of them that feare the Lord and delight in his Commandements ſhall be bleſſed, is not made to <hi>John</hi> or <hi>Thomas</hi> only, but in common to all that feare and delight in God, and both theſe Promiſes are as large as bleſſedneſſe, including Heaven as well as earth.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> But it is further ſaid, That the childrens obedience is alwayes expreſſed or implied, <hi>Pſal.</hi> 103.17, 18.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> To which I anſwer, That God promiſing bleſſedneſſe to my children <note n="a" place="margin">
+                  <hi>Iſa.</hi> 54. 13. All thy chil<g ref="char:EOLhyphen"/>dren ſhall be taught of the Lord.</note>, undertakes their faith and obedience <note n="b" place="margin">
+                  <hi>Iſa</hi> 49.25. I will ſave thy chil<g ref="char:EOLhyphen"/>dren.</note>, without which they cannot be ſpiritually bleſſed; Theſe two are ſome of the good things included in the Promiſe and Covenant, and performances thereof, and are implied as effects, not as motives or cauſes of the promiſe which is moſt freely made by the Lord.</p>
+            <p>The revealed will of God in this Covenant concerning the good of my children, is the rule to the Church and me, what to beleeve, hope and ex<g ref="char:EOLhyphen"/>pect
+<pb n="8" facs="tcp:112023:5"/>
+concerning them, and what to doe to and for them to prepare and en<g ref="char:EOLhyphen"/>ter them (as much as in us lies) into and for the whole good of this Promiſe. The ſecret counſell of God how my children ſhall prove in the end, belongs not to us, is no rule for us to walk by towards them till it be revealed. And this Promiſe holds out unto us; Firſt, A ground comfor<g ref="char:EOLhyphen"/>tably to believe and hope that God will fulfill the whole of the Covenant unto them, whence we have as cleere a ground to expect their ſpirituall as their temporall good, and upon this promiſe we may ground a prayer of faith for both for the children. Secondly, This Promiſe binds us to uſe in faith all meanes that the children are capable of for the intereſſing of them in the good of this Covenant, and among other to baptiſe them. In<g ref="char:EOLhyphen"/>fants are capable of grace, to ſuch belongs the Kingdome of Heaven, and for ought we know, the Spirit hath ſanctified the believers children, and from this promiſe we have ground to hope that it is ſo, they being within it expreſſely; and this Covenant gives them a right to the ſeale of it; and this revealed will is the rule by which the Church and we are to judge, leaving ſecret things to God; and therefore without incurring the guilt of infidelity, and breach of the command included in this promiſe of uſing meanes, and without manifeſt injury to the children, and contempt and ſlighting of this great mercy and kindneſſe expreſſed and aſſured in this Covenant to believers, neither the Church nor they can withhold Baptiſme from their children.</p>
+            <p>Hence it appeares, that this Objection is caſt in impertinently, to trou<g ref="char:EOLhyphen"/>ble the cleere waters of this ſweet Promiſe, and weaken our faith in it. What God hath undertaken (it being his work and not ours) we are to reſt upon his truth and faithfulneſſe in accompliſhing it, and not trouble our hearts or heads about it, but doing our duties believe in his truth revea<g ref="char:EOLhyphen"/>led, and ſubmit to his ſoveraignty (the exerciſe whereof is unknown unto us) when he ſhall reveale it. It is true that the election only obtaines the inviſible grace of this promiſe (as the Apoſtle ſaith of <hi>Abrahams</hi> ſeed) but what is that to us before God manifeſts who are in his election and who not; It ought not (being ſecret) to impeach our faith in this Pro<g ref="char:EOLhyphen"/>miſe, nor withhold us from uſing all meanes to our children for the obtai<g ref="char:EOLhyphen"/>ning of that grace.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> It is further objected, That Baptiſme requires a ſpirituall uſe, and chil<g ref="char:EOLhyphen"/>dren cannot make ſuch ſpirituall uſe of it, and by experience it is cleere, that many baptiſed in Infancy, after deny it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> To which I anſwer, That the ſpirituall uſe of Baptiſme is either by the
+<pb n="9" facs="tcp:112023:5"/>
+Spirit of God, and that that is done in the children of believers, we have from this Covenant good ground to beleeve; or by the Church and pa<g ref="char:EOLhyphen"/>rents in bringing the children unto this ordinance in faith, which is done in the right adminiſtration of it, or laſtly by the children themſelves, who being paſſive in this ordinance, it is not neceſſary that at preſent they ex<g ref="char:EOLhyphen"/>preſſe the fruits of it in any activity of theirs, no more then in circumci<g ref="char:EOLhyphen"/>ſion; but this is to be beleeved and expected, that God who hath promi<g ref="char:EOLhyphen"/>ſed will produce it in time. And though it fall out that ſome denie their Baptiſme afterwards as ſome did their circumciſion, that is not materiall in this queſtion, being ſecret and therefore not conſiderable in the diſpen<g ref="char:EOLhyphen"/>ſation of the outward viſible grace and priviledges of this Covenant which ſuch children have Covenant-right unto; Which alſo is by this further manifeſted, that though many of them that receive Baptiſme, at full age after deny it, and declare by their apoſtacy that they are in the gall of bitterneſſe and bond of iniquity as <hi>Simon Magus,</hi> yet that hinders not the Church to adminiſter Baptiſme to others of full age, upon their pro<g ref="char:EOLhyphen"/>feſſion of faith and repentance. <hi>For we are to walke by the revealed will of God, and not be hindred by future events, which being ſecret, are to be left and referred to God.</hi> And we are incouraged ſo to doe in the caſe in queſtion, not only from the Covenant of God, <hi>but alſo from the experience</hi> of his gratious performance thereof, who hath made good this promiſe to the children of beleevers and profeſſors in the uttermoſt extent of it, ſpe<g ref="char:EOLhyphen"/>cially where there hath been no fault in the believers, either in not belee<g ref="char:EOLhyphen"/>ving this gratious promiſe, or not uſing the meanes ſanctified for the obtai<g ref="char:EOLhyphen"/>ning of the performance of it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> It is further objected, That religious parents have no other priviledge concerning their children then from the meanes of knowledge for them which unbeleevers have not.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> To which I anſwer, It is plaine by what I have ſaid, that the Scriptures ſpeake great and excellent things of the ſeed and generation of the godly, which it not only excludes the ſeed of the wicked from, but ſpeakes ſad and dreadfull things of them: of the ſeed and children of beleevers, the holy Scriptures teſtifie that God is their God, will circumciſe their hearts to love him, poure out his Spirit and bleſſing upon them, will ſhew mer<g ref="char:EOLhyphen"/>cies to thouſands of them; they ſhall be bleſſed, the promiſes belong unto them, and the Kingdome of Heaven; they are holy, beloved for the Fa<g ref="char:EOLhyphen"/>thers ſake, <hi>&amp;c.</hi> but of the children of unbelievers, they ſpeake no good, but contrarily that they are curſed; God will viſit the iniquities of their
+<pb n="10" facs="tcp:112023:6"/>
+fathers <note n="*" place="margin">Num. 14.18. Deut. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.9. Ier. 32.18. Iob <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 19.</note> upon them unto the third and fourth generation, that they are <note n="a" place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor. 7. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4.</note> uncleane, the ſeed of the ſerpent: farre from ſafety, <hi>Job</hi> 5.4. God will make their plagues wonderfull, <hi>Deut.</hi> 28.59, <hi>&amp;c.</hi> And by this appeares that there is a broader difference between the children of beleevers and of unbeleevers, then that beleevers have the meanes of knowledge for their children: Beſides, many unbeleevers, as Papiſts and open profane perſons among us, have the meanes of knowledge for their children, and ſo between them and the children of beleevers is no difference, nor the con<g ref="char:EOLhyphen"/>dition of the children of beleevers better then of unbeleevers: Into what a bottomleſſe pit of abſurd opinions doth the ſpirit of error hurry men that turne from the truth and forſake it?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> It is further objected, That this ordinance is not appointed for chil<g ref="char:EOLhyphen"/>dren.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> To which I anſwer, Firſt, That God includes the children of beleevers in the Covenant. Secondly, To whom the Covenant belongs <hi>the ſeale belongs</hi> 
+               <note n="b" place="margin">They <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat have the th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g ſigni<g ref="char:EOLunhyphen"/>fi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, may not be de<g ref="char:EOLhyphen"/>nied the ſigne <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f ca<g ref="char:EOLhyphen"/>pable of it, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 47. &amp; A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.7 They ha<g ref="char:EOLunhyphen"/>v<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng the lik<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and promiſe as we to deny th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m bap<g ref="char:EOLhyphen"/>tiſme is to withſtand God.</note>, all Gods Covenants are ſealed Covenants. Thirdly, The chil<g ref="char:EOLhyphen"/>dren of beleevers are capable of this ſeale of the Covenant, being <hi>meerely paſſive</hi> in the adminiſtration of it, both in reſpect of the outward element and inward grace of it, and it is a ſtrong ingagement of them to devote themſelves unto God when they attaine diſcretion that from the begin<g ref="char:EOLhyphen"/>ning they are conſecrated unto God, and have ſuch excellent promiſes <note n="c" place="margin">2 Cor. 7.1.</note> ſealed unto them, and what then hinders them to be baptiſed?</p>
+            <p>It is yet further objected, That baptiſing of children hath no founda<g ref="char:EOLhyphen"/>tion in Scripture.</p>
+            <p>To which I anſwer, There is a two-fold teſtimony of Scripture ex<g ref="char:EOLhyphen"/>preſſe in termes, and that is not to be had <hi>for ſome principall truths:</hi> Se<g ref="char:EOLhyphen"/>condly, by neceſſary cleere deduction from cleere Scriptures; and ſuch grounds Scripture abound withall for <hi>Pedobaptiſme,</hi> and ſome of them I have above opened and cleered.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> It is further ſaid (and but ſaid) That Baptiſme cannot be adminiſtred <note place="margin">Infant bap<g ref="char:EOLunhyphen"/>tiſme.</note> to infants, as <hi>John</hi> the Baptiſt and the Apoſtles did adminiſter it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> To which I anſwer, That it may be, and that ſufficeth in an anſwer ex<g ref="char:EOLhyphen"/>pecting the proofe of the objection: But becauſe I deſire to <hi>drive</hi> the ad<g ref="char:EOLhyphen"/>verſary of this truth <hi>out of all his coverts</hi> and ſeeming ſtrengths. I an<g ref="char:EOLhyphen"/>ſwer further, That in the adminiſtration of Baptiſme, according to the inſtitution of it, and the uſe of it by <hi>John</hi> and the Apoſtles, and others re<g ref="char:EOLhyphen"/>corded in Scriptures, there are ſome things eſſentiall and neceſſary in all caſes; and ſome things accidentall that are not neceſſary nor uſefull in all,
+<pb n="11" facs="tcp:112023:6"/>
+but only in ſome caſes. The eſſentials are three only, firſt a Miniſter of the Goſpell to adminiſter it, <hi>Mat.</hi> 28.19. they only have commiſſion and au<g ref="char:EOLhyphen"/>thority for it. Secondly, A perſon that hath right unto it, either by his own perſonall profeſſion of faith and repentance <note n="d" place="margin">Mat. 3.6. Acts 8.37.</note>, or otherwiſe, upon whom it is to be conferred: Thirdly, To baptiſe in the Name of the Fa<g ref="char:EOLhyphen"/>ther, Sonne and Holy Ghoſt. And that ſuch perſonall confeſſion is not ne<g ref="char:EOLhyphen"/>ceſſary, where it is otherwiſe apparant the perſon to receive it hath right unto it, is plaine by <hi>Johns</hi> baptiſing of Jeſus Chriſt who had Co<g ref="char:EOLhyphen"/>venant-right unto it, and could not confeſſe ſinne, <hi>Mark.</hi> 1.9. and by <hi>Ananias</hi> baptiſing <hi>Paul</hi> without confeſſion of ſinne or profeſſion of faith, <hi>Acts</hi> 9.15, 18. God telling him he had a right unto it being his choſen veſſell, and <hi>Peters</hi> baptizing the Centurions friends upon whom he ſaw the Holy Ghoſt in extraordinary gifts to fall without their per<g ref="char:EOLhyphen"/>ſonall confeſſions, <hi>Acts</hi> 10.47. and yet thoſe extraordinary gifts were not certaine evidences of election to eternall life. And by <hi>Pauls</hi> baptiſing of all <hi>Lydias</hi> houſhold <note n="*" place="margin">Act 16 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> meerly upon their ſubmitting willingly unto it, without diſtinct perſonall confeſſions, for ought appeares, and ſo the Jaylors <note n="a" place="margin">Act. 16.31, 33.</note> houſhold, and <hi>Stephanas</hi> 
+               <note n="b" place="margin">1 Cor. 1.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6.</note> his houſhold; and it cannot be reaſonably imagined that there were no children among them; And 1 <hi>Cor.</hi> 10.2. All the children of the <hi>Iſraelites</hi> (being within the Cove<g ref="char:EOLhyphen"/>nant) were baptiſed in the cloude and in the ſea as well as thoſe that were of full age.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> But it is further objected, That by what I have ſaid, children are to partake in the Lords Supper alſo, being another ſeale of the Covenant, and by it Infant-Communion may be as ſtrongly inferred as Infant-Baptiſme.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> To which I anſwer, the caſe is wholy unlike and followes not; for there is in the inſtitution of the Lords Supper required neceſſarily and as eſſentiall unto it, ſuch things as Infants are not capable of and are not re<g ref="char:EOLhyphen"/>quired in Baptiſme: In Baptiſme (the <hi>Sacrament of regeneration) the receiver is paſſive both in the outward and inward adminiſtrations there<g ref="char:EOLhyphen"/>of:</hi> But in the Sacrament of the Lords Supper <hi>(the Sacrament of cor<g ref="char:EOLhyphen"/>roboration and increaſe)</hi> the partaker of it muſt be active: An infant cannot examine and judge himſelfe, diſcerne the Lords body, doe it in re<g ref="char:EOLhyphen"/>membrance of Chriſt (all expreſly required in the receiver of the Lords Supper, 1 <hi>Cor.</hi> 11.25, 26, 28, 29, 31.) But an Infant can receive the ſprink<g ref="char:EOLhyphen"/>ling of water, and is capable of the Spirit of life and grace, and if he be a child of a beleever and member of the viſible Church, nothing in the inſti<g ref="char:EOLhyphen"/>tution of Baptiſme excludes him, and the Covenant includes him expreſly which is to be ſealed by it.</p>
+            <pb n="12" facs="tcp:112023:7"/>
+            <p>Some other arguments are brought againſt <hi>Pedobaptiſme,</hi> but becauſe they are from humane teſtimony negatively, (a way of arguing exploded by all Logitians) I will not miſpend pretious time in dealing with them, but leave them as of no weight or value. But I ſhall ſubjoyne ſome few conſiderations of ſome further abſurdities and miſtakes of the opinion of thoſe that deny Baptiſme to the children of beleevers, by which the truth in this queſtion will more cleerely appeare.</p>
+            <p>Beſides that, by their opinion the children of beleevers under the Goſ<g ref="char:EOLhyphen"/>pell are in as bad a caſe as the children of infidels, ſtrangers from the Pro<g ref="char:EOLhyphen"/>miſes and Covenant of grace, ſtrangers from the wombe, which is the condition of the wicked, <hi>Pſal.</hi> 58.3. ſo (as one obſerves) Gods holy lambes ſhould live like ſtraies, not marked with his brand, ordained to diſtinguiſh his from thoſe he will not owne; which is expreſly againſt the Scriptures, as I have above cleerely evinced: But they be alſo in a worſe caſe then the children of the <hi>Jewes</hi> under the law were, they were within the Covenant of grace, and had the ſeale of Circumciſion, a Sacra<g ref="char:EOLhyphen"/>ment, the ſame in ſubſtance with Baptiſme, of the ſame ſpirituall uſe and end in the place and ſtead whereof Baptiſme ſucceeds: which is alſo cleerely againſt the Scriptures, which informe us that better things are re<g ref="char:EOLhyphen"/>ſerved for us under the Goſpell, a better condition then they had under the Law, <hi>Heb.</hi> 11 40. Yea the children of the Chriſtian Jew, are by their opinion put in a worſe condition then the children of the Jew be<g ref="char:EOLhyphen"/>fore Chriſt were in, and yet they grant them to be within the ſaid Pro<g ref="char:EOLhyphen"/>miſe made to <hi>Abraham</hi> firſt above-mentioned; The children of the cir<g ref="char:EOLhyphen"/>cumciſed Jew might have the ſeale, but the children of the Chriſtian Jew may not; whereby the comming of Chriſt is made to turne to the diſpa<g ref="char:EOLhyphen"/>ragement of the children of the Chriſtian Jewes, to depoſe them from the hereditary dignity they had under the Law, contrary to the Scriptures, <hi>Heb.</hi> 7.19, 22. &amp; <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.6. which teſtifie, that Chriſt Jeſus hath brought us a better hope, a better teſtament, and his Miniſtery to be more excellent, and eſtabliſhed upon better promiſes.</p>
+            <p>Secondly, Theſe men would have the Church and the Miniſters of Chriſt refuſe, and refuſe to bleſſe thoſe whom Jeſus Chriſt himſelfe in per<g ref="char:EOLhyphen"/>ſon received, embraced and bleſſed, as thoſe to whom the Kingdome of Heaven belonged, contrary to the Scriptures, <hi>Epheſ.</hi> 5.1. Be ye followers of God as deare children; and the Scriptures call upon the children of the Church, even thoſe that ſuck the breſts to partake in the extraordinary duties of the Church, namely faſts, <hi>Joel.</hi> 2.16. <hi>Ezra</hi> 10.1. for which they are more unfit then for Baptiſme.</p>
+            <pb n="13" facs="tcp:112023:7"/>
+            <p>Thirdly, Theſe men breake the conſtant rule of right interpretation and conſtruction to ſupport their fancy; The Scriptures are one intire body of truth, <hi>Joh</hi> 17.17. Thy word is truth, and therefore conſtruction muſt not be made by fraction upon any part of it, touching any queſtion raiſed out of it alone, but upon all matters concerning it compared toge<g ref="char:EOLhyphen"/>ther, and therefore we are to ſearch the Scriptures, and compare ſpirituall things with ſpirituall things. Take all the holy Scriptures together con<g ref="char:EOLhyphen"/>cerning Sacraments, and it cleerely appeares that when God inſtituted them in his Church, he declared his mind, that the children of the Church ſhould be partakers of them, as <hi>Gen.</hi> 17.7, 10. of Circumciſion, the Sacra<g ref="char:EOLhyphen"/>ment then of initiation and regeneration; and of the Paſſeover, <hi>Exod.</hi> 12.16, 47. the then Sacrament of edification, every ſoule in the houſe, all the Congregation were to eate it. After by the Goſpell in the inſtitution of Baptiſme, there is no change made, ſave only in the outward element, wa<g ref="char:EOLhyphen"/>ter waſhing, for the fore-skins circumciſing, no word of altering the per<g ref="char:EOLhyphen"/>ſons to partake in it, as appeares expreſly, <hi>Joh.</hi> 1.33. God ſent <hi>John</hi> to baptiſe with water; Here the element and outward matter of the Sacra<g ref="char:EOLhyphen"/>ment of regeneration is altered, but no more by the inſtitution, no word of altering the perſons, ſo as they remaine as before, to be determined by the generall rule at firſt common to all Sacraments: But in the inſtitu<g ref="char:EOLhyphen"/>tion of the Lords Supper, there is made not only a change of the outward matter, but alſo an alteration and limitation of the perſons, and children ex<g ref="char:EOLhyphen"/>cluded, and all that examine not and judge themſelves, and diſcerne not the Lords body; Certainely if the Lord had intended any alteration or re<g ref="char:EOLhyphen"/>ſtraint of perſons in the inſtitution of Baptiſme, he would have ſpoken it out, as he doth in the inſtitution of the Lords Supper; and his ſilence there<g ref="char:EOLhyphen"/>in may ſatisfie any ſober ſpirit that it never came into his mind.</p>
+            <p>But theſe men looke only upon the actuall diſpenſation of this Sacra<g ref="char:EOLhyphen"/>ment of Baptiſme by the Baptiſt, and by the Apoſtles upon perſons of full age expreſly recorded, and not upon the rules of the Scriptures compared as afore-ſaid, nor doe they conſider the reaſon and rule of thoſe practiſes. It appeares expreſly that thoſe recorded practiſes were upon proſelites, new converts added to the Church, and newly brought to the faith of the Goſpell, and with them they proceeded by the rule concerning proſelites, ſet downe <hi>Ezek.</hi> 47.22. they gave them a portion in the inheritance of the Church, and made them partakers of the priviledges thereof; can any conclude hence, that they intended hereby to diſſeiſe the children of the Church, and to diſinherit them and diveſt them of the Covenant or ſeale to
+<pb n="14" facs="tcp:112023:8"/>
+which they were borne? Certainly no: There is enough in the Covenant of grace and priviledges of the Church for both, the natives and the ſtranger, that by his profeſſion and converſion is added to the Church: To preach to infidels before they be baptiſed is neceſſary, becauſe elſe a ſeale is put to a blanck, but to baptiſe the infants of beleevers, is to put the ſeale to the Co<g ref="char:EOLhyphen"/>venant, as much as it is to baptiſe profeſſors of full age, ſuch infants having the ſame right as profeſſors. Theſe men cleerely erre by not obſerving the difference between natives of the Church, and thoſe that are forreiners and ſtrangers to be received into the Church: and by not conferring the whole body of the Scriptures concerning Sacraments, to find out the mind of God in this buſineſſe; what is the ground whereupon the Church under the Goſpell receives women to partake in the Supper of the Lord, for which they have neither precept nor example in the new Teſtament, no more then we have for Infant-baptiſme? Certainly none but that God commanded their partaking in the Paſſeover <note n="*" place="margin">Exod. 12. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note>, and thereby declared them to be perſons to whom he would have Sacraments adminiſtred if they were capable thereof, and of this they are capable, and nothing in the new inſtitution and alteration induced by the Goſpell excludes them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> But ſome object further, That there is an expreſſe declaration of Gods will concerning perſons in the inſtitution of baptiſme, <hi>Mat.</hi> 28.19. <hi>G<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> teach all nations, baptiſing them, &amp;c.</hi> from which they inferre, that none are to be baptiſed but thoſe that are taught, and therefore only perſons of diſcretion.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> To which I anſwer, That cleerely here is no inſtitution of Baptiſme which was inſtituted long before, <hi>Joh.</hi> 1. 33. God ſent <hi>John</hi> the Baptiſt to baptiſe with water, and Jeſus Chriſt that gave this command, was him<g ref="char:EOLhyphen"/>ſelfe before this baptiſed, <hi>Mat.</hi> 3. 16. and the Apoſtles to whom he ſpake this had baptiſed before, <hi>Joh.</hi> 4. 2. Secondly, It cannot be intended that theſe two duties of the Miniſteriall office, preach and baptiſe ſhould be inſepe<g ref="char:EOLhyphen"/>rable, in regard of the perſons in whom they determine; that the ſame per<g ref="char:EOLhyphen"/>ſons that partake not in the one, ſhould not be partakers of the other, or that thoſe that partake in the one, ſhould neceſſarily partake in the other. <hi>John</hi> baptiſed Jeſus Chriſt though he did not preach unto him; and it is ap<g ref="char:EOLhyphen"/>parantly abſurd, that Miniſters muſt baptiſe all they preach unto whether they receive their preaching or not; and it is as manifeſtly abſurd, that Mi<g ref="char:EOLhyphen"/>niſters muſt deny baptiſme to them that by the word have right unto it, be<g ref="char:EOLhyphen"/>cauſe they have not preached unto them, for it is the right unto it, not prea<g ref="char:EOLhyphen"/>ching to them, that determines to whom it is to be given, and ſuch expo<g ref="char:EOLhyphen"/>ſition
+<pb n="15" facs="tcp:112023:8"/>
+is to be made of Scripture, and of all writings as abſurditie may be avoided. Thirdly, The true ſenſe and ſcope of this place of Scripture is plainly no more, but firſt to inlarge the Apoſtles commiſſion which was given them before, <hi>Mat.</hi> 10.5. to all nations; at firſt limited to the loſt ſheep of the houſe of <hi>Iſrael,</hi> and ſecondly to injoyne them to attend prin<g ref="char:EOLhyphen"/>cipally and with great care and heed the two principall duties of their of<g ref="char:EOLhyphen"/>fice, preaching the word, and adminiſtring the Sacraments, and whoſoever extends it further, apparantly wrongs and abuſes it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> It is further objected, That the words, <hi>Mat.</hi> 28.19. where the Apoſtles are commanded <hi>to teach and baptiſe all nations,</hi> in the originall tongue import, that they were to baptiſe none but whom they made diſciples; and then Infants are excluded.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> To which I anſwer, The words upon which this cavill and criticiſme is grounded are two, the one tranſlated (<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>teach)</hi> which they would have to meane (make diſciples) and pretend that it ought to be ſo tranſlated, and the other is <hi>(them)</hi> which is of the Maſculine gender, and cannot in Gram<g ref="char:EOLhyphen"/>maticall conſtruction agree with the word <hi>Nations</hi> going before, being of the Neuter gender, and therefore muſt refer to the word diſciples, implied in the Verbe uſually tranſlated <hi>(teach:)</hi> In both which it ſeems to me very evident, that they are greatly (if not wilfully) miſtaken.</p>
+            <p>For though the word may ſignifie to teach and to make diſciples alſo, yet by the ſubject matter which it is here taken and uſed to expreſſe, it muſt be here taken for the firſt, and not for the other: becauſe to make diſci<g ref="char:EOLhyphen"/>ples was not in the power of the Apoſtles (upon whom this command lay) it being the peculiar of God <note n="a" place="margin">Pſal. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> to frame the heart to ſubmit unto, en<g ref="char:EOLhyphen"/>tertaine and embrace the Apoſtles teaching, and to caſt them into the forme and obedience of it, and ſo to make them diſciples, but to teach, and thereby endeavour as much as in them lay to make diſciples, was in their power and duty, and is all the whole of the meaning of the word here, therefore properly and rightly rendred <hi>teach,</hi> and not to make diſciples. <note place="margin">Semper f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<g ref="char:EOLhyphen"/>da interpre<g ref="char:EOLhyphen"/>tatio ſecun<g ref="char:EOLhyphen"/>dum ſubi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ctam ma<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>riam.</note> It is evermore the ſafe way to make expoſition of the words of the Scrip<g ref="char:EOLhyphen"/>ture, not according to our fancy, to wreſt them to the opinion we take up, but according to the matter and meaning of the Scriptures themſelves, appearing in the context thereof.</p>
+            <p>And for the word <hi>[Them.]</hi> though Nations in Grammaticall conſtru<g ref="char:EOLhyphen"/>ction <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> cannot be the Subſtantive unto it, (the Evangeliſt in changing the gender following, not the letter but the ſenſe of the word nations) yet <note n="a" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> men (that were to be baptiſed) a word comprehenſive of all ages and
+<pb n="16" facs="tcp:112023:9"/>
+ſexes, and underſtood in the text, muſt be the Subſtantive unto it, rather then <note n="b" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> diſciples, which is only of the Maſculine gender in the originall tongue, and excludes women from Baptiſme contrary to the Scriptures, (which expreſly mention the baptizing of <hi>Lydia.)</hi>
+            </p>
+            <p>By which appeares, that this text according to the matter and true pro<g ref="char:EOLhyphen"/>per meaning of it, is thus in ſubſtance: <hi>Goe teach all nations,</hi> endeayour to make them diſciples, and baptiſe every man of what age or ſex ſoever that have right to that Sacrament.</p>
+            <p>The ſcope of the text, is to inlarge the Apoſtles commiſſion, and there<g ref="char:EOLhyphen"/>fore the words of it are to be expounded in the moſt large, liberall and comprehenſive ſenſe that the holy Scriptures concerning Sacraments ta<g ref="char:EOLhyphen"/>ken together will beare, and are not to be reſtrained to the objectors erro<g ref="char:EOLhyphen"/>neous conceit, which <note n="c" place="margin">Pſal<g ref="char:punc">▪</g> 78.41.</note> limits the glorious grace of the holy one of <hi>Iſrael,</hi> and reſtraines it to the great diſhonour thereof, and prejudice of his people.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> It is further objected, That <hi>Lot</hi> in <hi>Abrahams</hi> time was a beleever, and yet was not within the ſaid Covenant to <hi>Abraham</hi> nor circumciſed.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> To which I anſwer, God made three ſeverall Covenants to <hi>Abraham, Gen.</hi> 17. The firſt, that he ſhould be Father of many Nations, <hi>verſ.</hi> 4<g ref="char:punc">▪</g> The ſeconnd, to be his God, &amp;c. <hi>verſ.</hi> 7. The third, to give him and his ſeed the land of <hi>Canaan, verſ,</hi> 8. The firſt Covenant is peculiar to Chriſt, and <hi>Abraham</hi> as his Father, <hi>Gal.</hi> 3.8, 14, 16, 17. The ſecond Promiſe is common to all beleevers with <hi>Abraham</hi> (as I have proved) even to <hi>Lot.</hi> And the third Promiſe was a peculiar of <hi>Abrahams</hi> naturall ſeed, as ap<g ref="char:EOLhyphen"/>peares in it ſelfe.</p>
+            <p>And for Circumciſion, there was a ſpeciall reaſon why <hi>Lot</hi> had it not, expreſly ſet forth in the text, namely for that it was reſtrained by God to <hi>Abraham</hi> and his naturall ſeed, and ſuch as were among them, <hi>Gen.</hi> 17. 10. ſo as none were to partake thereof but the <hi>Jews</hi> and ſuch as did live among them and adjoyne unto them, though they were believers: They being appointed to be the Church to whom the oracles of God were com<g ref="char:EOLhyphen"/>mitted, <hi>Rom.</hi> 3.2. till the Meſſiah came, upon whoſe breaking downe of the partition wall, the ſaid firſt Promiſe was accompliſhed, and <hi>Abraham</hi> made heire of the world, <hi>Rom.</hi> 4.13.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
